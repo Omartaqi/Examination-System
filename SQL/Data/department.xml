@@ -1,0 +1,63 @@
+<Departments>
+    <Department>
+        <Department_ID>1</Department_ID>
+        <Department_Name>Software Development</Department_Name>
+    </Department>
+    <Department>
+        <Department_ID>2</Department_ID>
+        <Department_Name>Cybersecurity</Department_Name>
+    </Department>
+    <Department>
+        <Department_ID>3</Department_ID>
+        <Department_Name>Data Science</Department_Name>
+    </Department>
+    <Department>
+        <Department_ID>4</Department_ID>
+        <Department_Name>Cloud Computing</Department_Name>
+    </Department>
+    <Department>
+        <Department_ID>5</Department_ID>
+        <Department_Name>Artificial Intelligence</Department_Name>
+    </Department>
+    <Department>
+        <Department_ID>6</Department_ID>
+        <Department_Name>Network Engineering</Department_Name>
+    </Department>
+    <Department>
+        <Department_ID>7</Department_ID>
+        <Department_Name>IT Management</Department_Name>
+    </Department>
+    <Department>
+        <Department_ID>8</Department_ID>
+        <Department_Name>Web Development</Department_Name>
+    </Department>
+    <Department>
+        <Department_ID>9</Department_ID>
+        <Department_Name>DevOps</Department_Name>
+    </Department>
+    <Department>
+        <Department_ID>10</Department_ID>
+        <Department_Name>Robotics</Department_Name>
+    </Department>
+<Department>
+    <Department_ID>11</Department_ID>
+    <Department_Name>IT Support</Department_Name>
+</Department>
+<Department>
+    <Department_ID>12</Department_ID>
+    <Department_Name>Database Administration</Department_Name>
+</Department>
+<Department>
+    <Department_ID>13</Department_ID>
+    <Department_Name>Machine Learning</Department_Name>
+</Department>
+<Department>
+    <Department_ID>14</Department_ID>
+    <Department_Name>Business Analysis</Department_Name>
+</Department>
+<Department>
+    <Department_ID>15</Department_ID>
+    <Department_Name>Information Systems</Department_Name>
+</Department>
+
+</Departments>

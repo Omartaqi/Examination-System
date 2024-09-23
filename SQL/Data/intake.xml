@@ -1,0 +1,62 @@
+<Intakes>
+    <Intake>
+        <Intake_Name>Giza Branch - Intake 1</Intake_Name>
+        <Date_Start>2024-01-01</Date_Start>
+        <Date_End>2024-06-30</Date_End>
+        <Branch_ID>1</Branch_ID>
+    </Intake>
+    <Intake>
+        <Intake_Name>Alexandria Branch - Intake 1</Intake_Name>
+        <Date_Start>2024-01-01</Date_Start>
+        <Date_End>2024-06-30</Date_End>
+        <Branch_ID>2</Branch_ID>
+    </Intake>
+    <Intake>
+        <Intake_Name>Assiut Branch - Intake 1</Intake_Name>
+        <Date_Start>2024-01-01</Date_Start>
+        <Date_End>2024-06-30</Date_End>
+        <Branch_ID>3</Branch_ID>
+    </Intake>
+    <Intake>
+        <Intake_Name>Mansoura Branch - Intake 1</Intake_Name>
+        <Date_Start>2024-01-01</Date_Start>
+        <Date_End>2024-06-30</Date_End>
+        <Branch_ID>4</Branch_ID>
+    </Intake>
+    <Intake>
+        <Intake_Name>Ismailia Branch - Intake 1</Intake_Name>
+        <Date_Start>2024-01-01</Date_Start>
+        <Date_End>2024-06-30</Date_End>
+        <Branch_ID>5</Branch_ID>
+    </Intake>
+    <Intake>
+        <Intake_Name>Fayoum Branch - Intake 1</Intake_Name>
+        <Date_Start>2024-01-01</Date_Start>
+        <Date_End>2024-06-30</Date_End>
+        <Branch_ID>6</Branch_ID>
+    </Intake>
+    <Intake>
+        <Intake_Name>Sohag Branch - Intake 1</Intake_Name>
+        <Date_Start>2024-01-01</Date_Start>
+        <Date_End>2024-06-30</Date_End>
+        <Branch_ID>7</Branch_ID>
+    </Intake>
+    <Intake>
+        <Intake_Name>Benha Branch - Intake 1</Intake_Name>
+        <Date_Start>2024-01-01</Date_Start>
+        <Date_End>2024-06-30</Date_End>
+        <Branch_ID>8</Branch_ID>
+    </Intake>
+    <Intake>
+        <Intake_Name>Zagazig Branch - Intake 1</Intake_Name>
+        <Date_Start>2024-01-01</Date_Start>
+        <Date_End>2024-06-30</Date_End>
+        <Branch_ID>9</Branch_ID>
+    </Intake>
+    <Intake>
+        <Intake_Name>Tanta Branch - Intake 1</Intake_Name>
+        <Date_Start>2024-01-01</Date_Start>
+        <Date_End>2024-06-30</Date_End>
+        <Branch_ID>10</Branch_ID>
+    </Intake>
+</Intakes>

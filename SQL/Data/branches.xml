@@ -1,0 +1,46 @@
+<Branches>
+    <Branch>
+        <Branch_Name>Giza Branch</Branch_Name>
+        <City>Giza</City>
+    </Branch>
+    <Branch>
+        <Branch_Name>Alexandria Branch</Branch_Name>
+        <City>Alexandria</City>
+    </Branch>
+    <Branch>
+        <Branch_Name>Assiut Branch</Branch_Name>
+        <City>Assiut</City>
+    </Branch>
+    <Branch>
+        <Branch_Name>Mansoura Branch</Branch_Name>
+        <City>Mansoura</City>
+    </Branch>
+    <Branch>
+        <Branch_Name>Ismailia Branch</Branch_Name>
+        <City>Ismailia</City>
+    </Branch>
+    <Branch>
+        <Branch_Name>Fayoum Branch</Branch_Name>
+        <City>Fayoum</City>
+    </Branch>
+    <Branch>
+        <Branch_Name>Sohag Branch</Branch_Name>
+        <City>Sohag</City>
+    </Branch>
+    <Branch>
+        <Branch_Name>Benha Branch</Branch_Name>
+        <City>Benha</City>
+    </Branch>
+    <Branch>
+        <Branch_Name>Zagazig Branch</Branch_Name>
+        <City>Zagazig</City>
+    </Branch>
+    <Branch>
+        <Branch_Name>Tanta Branch</Branch_Name>
+        <City>Tanta</City>
+    </Branch>
+    <Branch>
+        <Branch_Name>Minia Branch</Branch_Name>
+        <City>Minia</City>
+    </Branch>
+</Branches>

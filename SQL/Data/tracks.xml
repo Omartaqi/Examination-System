@@ -1,0 +1,177 @@
+<Tracks>
+    <Track>
+        <Track_ID>1</Track_ID>
+        <Track_Name>Frontend Development</Track_Name>
+        <Department_ID>1</Department_ID>
+    </Track>
+    <Track>
+        <Track_ID>2</Track_ID>
+        <Track_Name>Backend Development</Track_Name>
+        <Department_ID>1</Department_ID>
+    </Track>
+    <Track>
+        <Track_ID>3</Track_ID>
+        <Track_Name>Full Stack Development</Track_Name>
+        <Department_ID>1</Department_ID>
+    </Track>
+    <Track>
+        <Track_ID>4</Track_ID>
+        <Track_Name>Network Security</Track_Name>
+        <Department_ID>2</Department_ID>
+    </Track>
+    <Track>
+        <Track_ID>5</Track_ID>
+        <Track_Name>Ethical Hacking</Track_Name>
+        <Department_ID>2</Department_ID>
+    </Track>
+    <Track>
+        <Track_ID>6</Track_ID>
+        <Track_Name>Incident Response</Track_Name>
+        <Department_ID>2</Department_ID>
+    </Track>
+    <Track>
+        <Track_ID>7</Track_ID>
+        <Track_Name>Machine Learning</Track_Name>
+        <Department_ID>3</Department_ID>
+    </Track>
+    <Track>
+        <Track_ID>8</Track_ID>
+        <Track_Name>Data Analysis</Track_Name>
+        <Department_ID>3</Department_ID>
+    </Track>
+    <Track>
+        <Track_ID>9</Track_ID>
+        <Track_Name>Data Engineering</Track_Name>
+        <Department_ID>3</Department_ID>
+    </Track>
+    <Track>
+        <Track_ID>10</Track_ID>
+        <Track_Name>Cloud Architecture</Track_Name>
+        <Department_ID>4</Department_ID>
+    </Track>
+    <Track>
+        <Track_ID>11</Track_ID>
+        <Track_Name>Cloud Security</Track_Name>
+        <Department_ID>4</Department_ID>
+    </Track>
+    <Track>
+        <Track_ID>12</Track_ID>
+        <Track_Name>DevOps Engineering</Track_Name>
+        <Department_ID>4</Department_ID>
+    </Track>
+    <Track>
+        <Track_ID>13</Track_ID>
+        <Track_Name>AI Programming</Track_Name>
+        <Department_ID>5</Department_ID>
+    </Track>
+    <Track>
+        <Track_ID>14</Track_ID>
+        <Track_Name>Natural Language Processing</Track_Name>
+        <Department_ID>5</Department_ID>
+    </Track>
+    <Track>
+        <Track_ID>15</Track_ID>
+        <Track_Name>Computer Vision</Track_Name>
+        <Department_ID>5</Department_ID>
+    </Track>
+    <Track>
+        <Track_ID>16</Track_ID>
+        <Track_Name>Network Design</Track_Name>
+        <Department_ID>6</Department_ID>
+    </Track>
+    <Track>
+        <Track_ID>17</Track_ID>
+        <Track_Name>Network Administration</Track_Name>
+        <Department_ID>6</Department_ID>
+    </Track>
+    <Track>
+        <Track_ID>18</Track_ID>
+        <Track_Name>IT Project Management</Track_Name>
+        <Department_ID>7</Department_ID>
+    </Track>
+    <Track>
+        <Track_ID>19</Track_ID>
+        <Track_Name>ITIL Certification</Track_Name>
+        <Department_ID>7</Department_ID>
+    </Track>
+    <Track>
+        <Track_ID>20</Track_ID>
+        <Track_Name>UX/UI Design</Track_Name>
+        <Department_ID>8</Department_ID>
+    </Track>
+    <Track>
+        <Track_ID>21</Track_ID>
+        <Track_Name>Frontend Frameworks</Track_Name>
+        <Department_ID>8</Department_ID>
+    </Track>
+    <Track>
+        <Track_ID>22</Track_ID>
+        <Track_Name>Continuous Integration</Track_Name>
+        <Department_ID>9</Department_ID>
+    </Track>
+    <Track>
+        <Track_ID>23</Track_ID>
+        <Track_Name>Continuous Deployment</Track_Name>
+        <Department_ID>9</Department_ID>
+    </Track>
+    <Track>
+        <Track_ID>24</Track_ID>
+        <Track_Name>Industrial Robotics</Track_Name>
+        <Department_ID>10</Department_ID>
+    </Track>
+    <Track>
+        <Track_ID>25</Track_ID>
+        <Track_Name>Service Robotics</Track_Name>
+        <Department_ID>10</Department_ID>
+    </Track>
+<Track>
+        <Track_ID>26</Track_ID>
+        <Track_Name>Technical Support</Track_Name>
+        <Department_ID>11</Department_ID>
+    </Track>
+    <Track>
+        <Track_ID>27</Track_ID>
+        <Track_Name>Help Desk Operations</Track_Name>
+        <Department_ID>11</Department_ID>
+    </Track>
+    <Track>
+        <Track_ID>28</Track_ID>
+        <Track_Name>Database Design</Track_Name>
+        <Department_ID>12</Department_ID>
+    </Track>
+    <Track>
+        <Track_ID>29</Track_ID>
+        <Track_Name>SQL Performance Tuning</Track_Name>
+        <Department_ID>12</Department_ID>
+    </Track>
+    <Track>
+        <Track_ID>30</Track_ID>
+        <Track_Name>Advanced Machine Learning</Track_Name>
+        <Department_ID>13</Department_ID>
+    </Track>
+    <Track>
+        <Track_ID>31</Track_ID>
+        <Track_Name>Deep Learning</Track_Name>
+        <Department_ID>13</Department_ID>
+    </Track>
+    <Track>
+        <Track_ID>32</Track_ID>
+        <Track_Name>Business Process Modeling</Track_Name>
+        <Department_ID>14</Department_ID>
+    </Track>
+    <Track>
+        <Track_ID>33</Track_ID>
+        <Track_Name>Requirements Engineering</Track_Name>
+        <Department_ID>14</Department_ID>
+    </Track>
+    <Track>
+        <Track_ID>34</Track_ID>
+        <Track_Name>Enterprise Systems</Track_Name>
+        <Department_ID>15</Department_ID>
+    </Track>
+    <Track>
+        <Track_ID>35</Track_ID>
+        <Track_Name>Information Security Management</Track_Name>
+        <Department_ID>15</Department_ID>
+    </Track>
+</Tracks>

@@ -1,0 +1,402 @@
+<Courses>
+    <Course>
+        <Course_ID>1</Course_ID>
+        <Course_Name>Introduction to Frontend Development</Course_Name>
+        <Descriptions>Learn the basics of frontend web development.</Descriptions>
+        <Max_Degree>100</Max_Degree>
+        <Min_Degree>50</Min_Degree>
+        <Track_ID>1</Track_ID>
+    </Course>
+    <Course>
+        <Course_ID>2</Course_ID>
+        <Course_Name>Advanced Backend Development</Course_Name>
+        <Descriptions>Deep dive into backend web development.</Descriptions>
+        <Max_Degree>100</Max_Degree>
+        <Min_Degree>50</Min_Degree>
+        <Track_ID>2</Track_ID>
+    </Course>
+    <Course>
+        <Course_ID>3</Course_ID>
+        <Course_Name>Full Stack Web Development</Course_Name>
+        <Descriptions>Comprehensive course covering both frontend and backend development.</Descriptions>
+        <Max_Degree>100</Max_Degree>
+        <Min_Degree>50</Min_Degree>
+        <Track_ID>3</Track_ID>
+    </Course>
+    <Course>
+        <Course_ID>4</Course_ID>
+        <Course_Name>Network Security Fundamentals</Course_Name>
+        <Descriptions>Learn the fundamentals of network security.</Descriptions>
+        <Max_Degree>100</Max_Degree>
+        <Min_Degree>50</Min_Degree>
+        <Track_ID>4</Track_ID>
+    </Course>
+    <Course>
+        <Course_ID>5</Course_ID>
+        <Course_Name>Ethical Hacking Basics</Course_Name>
+        <Descriptions>Introduction to ethical hacking techniques.</Descriptions>
+        <Max_Degree>100</Max_Degree>
+        <Min_Degree>50</Min_Degree>
+        <Track_ID>5</Track_ID>
+    </Course>
+    <Course>
+        <Course_ID>6</Course_ID>
+        <Course_Name>Incident Response Techniques</Course_Name>
+        <Descriptions>Learn how to respond to security incidents.</Descriptions>
+        <Max_Degree>100</Max_Degree>
+        <Min_Degree>50</Min_Degree>
+        <Track_ID>6</Track_ID>
+    </Course>
+    <Course>
+        <Course_ID>7</Course_ID>
+        <Course_Name>Introduction to Machine Learning</Course_Name>
+        <Descriptions>Basics of machine learning and its applications.</Descriptions>
+        <Max_Degree>100</Max_Degree>
+        <Min_Degree>50</Min_Degree>
+        <Track_ID>7</Track_ID>
+    </Course>
+    <Course>
+        <Course_ID>8</Course_ID>
+        <Course_Name>Data Analysis with Python</Course_Name>
+        <Descriptions>Learn data analysis techniques using Python.</Descriptions>
+        <Max_Degree>100</Max_Degree>
+        <Min_Degree>50</Min_Degree>
+        <Track_ID>8</Track_ID>
+    </Course>
+    <Course>
+        <Course_ID>9</Course_ID>
+        <Course_Name>Data Engineering Principles</Course_Name>
+        <Descriptions>Fundamentals of data engineering.</Descriptions>
+        <Max_Degree>100</Max_Degree>
+        <Min_Degree>50</Min_Degree>
+        <Track_ID>9</Track_ID>
+    </Course>
+    <Course>
+        <Course_ID>10</Course_ID>
+        <Course_Name>Cloud Architecture Basics</Course_Name>
+        <Descriptions>Introduction to cloud architecture.</Descriptions>
+        <Max_Degree>100</Max_Degree>
+        <Min_Degree>50</Min_Degree>
+        <Track_ID>10</Track_ID>
+    </Course>
+    <Course>
+        <Course_ID>11</Course_ID>
+        <Course_Name>Cloud Security Essentials</Course_Name>
+        <Descriptions>Learn essential cloud security practices.</Descriptions>
+        <Max_Degree>100</Max_Degree>
+        <Min_Degree>50</Min_Degree>
+        <Track_ID>11</Track_ID>
+    </Course>
+    <Course>
+        <Course_ID>12</Course_ID>
+        <Course_Name>DevOps Engineering Foundations</Course_Name>
+        <Descriptions>Basics of DevOps engineering.</Descriptions>
+        <Max_Degree>100</Max_Degree>
+        <Min_Degree>50</Min_Degree>
+        <Track_ID>12</Track_ID>
+    </Course>
+    <Course>
+        <Course_ID>13</Course_ID>
+        <Course_Name>AI Programming with Python</Course_Name>
+        <Descriptions>Learn AI programming using Python.</Descriptions>
+        <Max_Degree>100</Max_Degree>
+        <Min_Degree>50</Min_Degree>
+        <Track_ID>13</Track_ID>
+    </Course>
+    <Course>
+        <Course_ID>14</Course_ID>
+        <Course_Name>Natural Language Processing</Course_Name>
+        <Descriptions>Introduction to NLP and its applications.</Descriptions>
+        <Max_Degree>100</Max_Degree>
+        <Min_Degree>50</Min_Degree>
+        <Track_ID>14</Track_ID>
+    </Course>
+    <Course>
+        <Course_ID>15</Course_ID>
+        <Course_Name>Computer Vision Fundamentals</Course_Name>
+        <Descriptions>Basics of computer vision and its applications.</Descriptions>
+        <Max_Degree>100</Max_Degree>
+        <Min_Degree>50</Min_Degree>
+        <Track_ID>15</Track_ID>
+    </Course>
+    <Course>
+        <Course_ID>16</Course_ID>
+        <Course_Name>Network Design and Implementation</Course_Name>
+        <Descriptions>Learn how to design and implement networks.</Descriptions>
+        <Max_Degree>100</Max_Degree>
+        <Min_Degree>50</Min_Degree>
+        <Track_ID>16</Track_ID>
+    </Course>
+    <Course>
+        <Course_ID>17</Course_ID>
+        <Course_Name>Network Administration</Course_Name>
+        <Descriptions>Introduction to network administration.</Descriptions>
+        <Max_Degree>100</Max_Degree>
+        <Min_Degree>50</Min_Degree>
+        <Track_ID>17</Track_ID>
+    </Course>
+    <Course>
+        <Course_ID>18</Course_ID>
+        <Course_Name>IT Project Management</Course_Name>
+        <Descriptions>Learn the principles of IT project management.</Descriptions>
+        <Max_Degree>100</Max_Degree>
+        <Min_Degree>50</Min_Degree>
+        <Track_ID>18</Track_ID>
+    </Course>
+    <Course>
+        <Course_ID>19</Course_ID>
+        <Course_Name>ITIL Certification Prep</Course_Name>
+        <Descriptions>Prepare for ITIL certification.</Descriptions>
+        <Max_Degree>100</Max_Degree>
+        <Min_Degree>50</Min_Degree>
+        <Track_ID>19</Track_ID>
+    </Course>
+    <Course>
+        <Course_ID>20</Course_ID>
+        <Course_Name>UX/UI Design Principles</Course_Name>
+        <Descriptions>Introduction to UX/UI design.</Descriptions>
+        <Max_Degree>100</Max_Degree>
+        <Min_Degree>50</Min_Degree>
+        <Track_ID>20</Track_ID>
+    </Course>
+    <Course>
+        <Course_ID>21</Course_ID>
+        <Course_Name>Frontend Frameworks</Course_Name>
+        <Descriptions>Learn popular frontend frameworks.</Descriptions>
+        <Max_Degree>100</Max_Degree>
+        <Min_Degree>50</Min_Degree>
+        <Track_ID>21</Track_ID>
+    </Course>
+    <Course>
+        <Course_ID>22</Course_ID>
+        <Course_Name>Continuous Integration</Course_Name>
+        <Descriptions>Introduction to continuous integration practices.</Descriptions>
+        <Max_Degree>100</Max_Degree>
+        <Min_Degree>50</Min_Degree>
+        <Track_ID>22</Track_ID>
+    </Course>
+    <Course>
+        <Course_ID>23</Course_ID>
+        <Course_Name>Continuous Deployment</Course_Name>
+        <Descriptions>Learn continuous deployment techniques.</Descriptions>
+        <Max_Degree>100</Max_Degree>
+        <Min_Degree>50</Min_Degree>
+        <Track_ID>23</Track_ID>
+    </Course>
+    <Course>
+        <Course_ID>24</Course_ID>
+        <Course_Name>Industrial Robotics</Course_Name>
+        <Descriptions>Basics of industrial robotics.</Descriptions>
+        <Max_Degree>100</Max_Degree>
+        <Min_Degree>50</Min_Degree>
+        <Track_ID>24</Track_ID>
+    </Course>
+    <Course>
+        <Course_ID>25</Course_ID>
+        <Course_Name>Service Robotics</Course_Name>
+        <Descriptions>Introduction to service robotics.</Descriptions>
+        <Max_Degree>100</Max_Degree>
+        <Min_Degree>50</Min_Degree>
+        <Track_ID>25</Track_ID>
+    </Course>
+    <Course>
+        <Course_ID>26</Course_ID>
+        <Course_Name>Technical Support Essentials</Course_Name>
+        <Descriptions>Learn essential technical support skills.</Descriptions>
+        <Max_Degree>100</Max_Degree>
+        <Min_Degree>50</Min_Degree>
+        <Track_ID>26</Track_ID>
+    </Course>
+    <Course>
+        <Course_ID>27</Course_ID>
+        <Course_Name>Help Desk Operations</Course_Name>
+        <Descriptions>Basics of help desk operations.</Descriptions>
+        <Max_Degree>100</Max_Degree>
+        <Min_Degree>50</Min_Degree>
+        <Track_ID>27</Track_ID>
+    </Course>
+    <Course>
+        <Course_ID>28</Course_ID>
+        <Course_Name>Database Design</Course_Name>
+        <Descriptions>Introduction to database design.</Descriptions>
+        <Max_Degree>100</Max_Degree>
+        <Min_Degree>50</Min_Degree>
+        <Track_ID>28</Track_ID>
+    </Course>
+    <Course>
+        <Course_ID>29</Course_ID>
+        <Course_Name>SQL Performance Tuning</Course_Name>
+        <Descriptions>Learn how to optimize SQL performance.</Descriptions>
+        <Max_Degree>100</Max_Degree>
+        <Min_Degree>50</Min_Degree>
+        <Track_ID>29</Track_ID>
+    </Course>
+    <Course>
+        <Course_ID>30</Course_ID>
+        <Course_Name>Advanced Machine Learning</Course_Name>
+        <Descriptions>Deep dive into advanced machine learning topics.</Descriptions>
+        <Max_Degree>100</Max_Degree>
+        <Min_Degree>50</Min_Degree>
+        <Track_ID>30</Track_ID>
+    </Course>
+    <Course>
+        <Course_ID>31</Course_ID>
+        <Course_Name>Deep Learning Techniques</Course_Name>
+        <Descriptions>Introduction to deep learning techniques.</Descriptions>
+        <Max_Degree>100</Max_Degree>
+        <Min_Degree>50</Min_Degree>
+        <Track_ID>31</Track_ID>
+    </Course>
+    <Course>
+        <Course_ID>32</Course_ID>
+        <Course_Name>Business Process Modeling</Course_Name>
+        <Descriptions>Learn how to model business processes.</Descriptions>
+        <Max_Degree>100</Max_Degree>
+        <Min_Degree>50</Min_Degree>
+        <Track_ID>32</Track_ID>
+    </Course>
+    <Course>
+        <Course_ID>33</Course_ID>
+        <Course_Name>Requirements Engineering</Course_Name>
+        <Descriptions>Introduction to requirements engineering.</Descriptions>
+        <Max_Degree>100</Max_Degree>
+        <Min_Degree>50</Min_Degree>
+        <Track_ID>33</Track_ID>
+    </Course>
+    <Course>
+        <Course_ID>34</Course_ID>
+        <Course_Name>Enterprise Systems</Course_Name>
+        <Descriptions>Learn the basics of enterprise systems.</Descriptions>
+        <Max_Degree>100</Max_Degree>
+        <Min_Degree>50</Min_Degree>
+        <Track_ID>34</Track_ID>
+    </Course>
+    <Course>
+        <Course_ID>35</Course_ID>
+        <Course_Name>Information Security Management</Course_Name>
+        <Descriptions>Introduction to information security management.</Descriptions>
+        <Max_Degree>100</Max_Degree>
+        <Min_Degree>50</Min_Degree>
+        <Track_ID>35</Track_ID>
+    </Course>
+    <Course>
+        <Course_ID>36</Course_ID>
+        <Course_Name>Advanced Frontend Development</Course_Name>
+        <Descriptions>Advanced techniques in frontend development.</Descriptions>
+        <Max_Degree>100</Max_Degree>
+        <Min_Degree>50</Min_Degree>
+        <Track_ID>1</Track_ID>
+    </Course>
+    <Course>
+        <Course_ID>37</Course_ID>
+        <Course_Name>Backend API Development</Course_Name>
+        <Descriptions>Learn how to develop backend APIs.</Descriptions>
+        <Max_Degree>100</Max_Degree>
+        <Min_Degree>50</Min_Degree>
+        <Track_ID>2</Track_ID>
+    </Course>
+    <Course>
+        <Course_ID>38</Course_ID>
+        <Course_Name>DevOps Best Practices</Course_Name>
+        <Descriptions>Learn the best practices in DevOps.</Descriptions>
+        <Max_Degree>100</Max_Degree>
+        <Min_Degree>50</Min_Degree>
+        <Track_ID>12</Track_ID>
+    </Course>
+    <Course>
+        <Course_ID>39</Course_ID>
+        <Course_Name>AI Ethics</Course_Name>
+        <Descriptions>Introduction to ethics in AI.</Descriptions>
+        <Max_Degree>100</Max_Degree>
+        <Min_Degree>50</Min_Degree>
+        <Track_ID>13</Track_ID>
+    </Course>
+    <Course>
+        <Course_ID>40</Course_ID>
+        <Course_Name>Cloud Cost Management</Course_Name>
+        <Descriptions>Learn how to manage cloud costs.</Descriptions>
+        <Max_Degree>100</Max_Degree>
+        <Min_Degree>50</Min_Degree>
+        <Track_ID>10</Track_ID>
+    </Course>
+    <Course>
+        <Course_ID>41</Course_ID>
+        <Course_Name>IT Governance</Course_Name>
+        <Descriptions>Introduction to IT governance.</Descriptions>
+        <Max_Degree>100</Max_Degree>
+        <Min_Degree>50</Min_Degree>
+        <Track_ID>18</Track_ID>
+    </Course>
+    <Course>
+        <Course_ID>42</Course_ID>
+        <Course_Name>Cybersecurity Threats</Course_Name>
+        <Descriptions>Learn about various cybersecurity threats.</Descriptions>
+        <Max_Degree>100</Max_Degree>
+        <Min_Degree>50</Min_Degree>
+        <Track_ID>2</Track_ID>
+    </Course>
+    <Course>
+        <Course_ID>43</Course_ID>
+        <Course_Name>Python for Data Science</Course_Name>
+        <Descriptions>Learn how to use Python for data science.</Descriptions>
+        <Max_Degree>100</Max_Degree>
+        <Min_Degree>50</Min_Degree>
+        <Track_ID>8</Track_ID>
+    </Course>
+    <Course>
+        <Course_ID>44</Course_ID>
+        <Course_Name>Blockchain Technology</Course_Name>
+        <Descriptions>Introduction to blockchain technology.</Descriptions>
+        <Max_Degree>100</Max_Degree>
+        <Min_Degree>50</Min_Degree>
+        <Track_ID>1</Track_ID>
+    </Course>
+    <Course>
+        <Course_ID>45</Course_ID>
+        <Course_Name>Advanced Data Analysis</Course_Name>
+        <Descriptions>Advanced techniques for data analysis using various tools and languages.</Descriptions>
+        <Max_Degree>100</Max_Degree>
+        <Min_Degree>50</Min_Degree>
+        <Track_ID>8</Track_ID>
+    </Course>
+    <Course>
+        <Course_ID>46</Course_ID>
+        <Course_Name>Data Visualization with Tableau</Course_Name>
+        <Descriptions>Learn to visualize data effectively using Tableau.</Descriptions>
+        <Max_Degree>100</Max_Degree>
+        <Min_Degree>50</Min_Degree>
+        <Track_ID>8</Track_ID>
+    </Course>
+    <Course>
+        <Course_ID>47</Course_ID>
+        <Course_Name>Project Management with Agile</Course_Name>
+        <Descriptions>Learn Agile project management techniques.</Descriptions>
+        <Max_Degree>100</Max_Degree>
+        <Min_Degree>50</Min_Degree>
+        <Track_ID>18</Track_ID>
+    </Course>
+    <Course>
+        <Course_ID>48</Course_ID>
+        <Course_Name>Cybersecurity for Managers</Course_Name>
+        <Descriptions>Learn the basics of cybersecurity from a managerial perspective.</Descriptions>
+        <Max_Degree>100</Max_Degree>
+        <Min_Degree>50</Min_Degree>
+        <Track_ID>2</Track_ID>
+    </Course>
+    <Course>
+        <Course_ID>49</Course_ID>
+        <Course_Name>Advanced Cloud Architecture</Course_Name>
+        <Descriptions>Advanced concepts in cloud architecture.</Descriptions>
+        <Max_Degree>100</Max_Degree>
+        <Min_Degree>50</Min_Degree>
+        <Track_ID>10</Track_ID>
+    </Course>
+    <Course>
+        <Course_ID>50</Course_ID>
+        <Course_Name>AI and Machine Learning for Business</Course_Name>
+        <Descriptions>Learn how AI and ML can be applied in a business context.</Descriptions>
+        <Max_Degree>100</Max_Degree>
+        <Min_Degree>50</Min_Degree>
+        <Track_ID>13</Track_ID>
+    </Course>
+</Courses>
